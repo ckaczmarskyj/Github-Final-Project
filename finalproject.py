@@ -14,3 +14,4 @@ pokemon_list_legendary: list[str] = []
 
 def main():
     #main function
+    return()
